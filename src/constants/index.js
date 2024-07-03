@@ -244,16 +244,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Create Lyrics with a next rhyming line effect with AI",
+    text: "In a garden where the roses bloom, Beneath the sky, a bright blue room.Each petal whispers secrets sweet,As lovers' hearts begin to beat.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Detect Possible copyrights breach in Music",
+    text: "AI can detect possible copyright breaches in music by analyzing melodies, harmonies, and lyrics, comparing them to existing copyrighted works for similarities.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -261,16 +261,17 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title:
+      "Generate Lyrical title with suggestions based on the lyrical content",
+    text: "AI can generate lyrical titles with suggestions by analyzing the content, themes, and emotions of the lyrics, providing creative and relevant options.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Suggest songs based on the emotions of the person",
+    text: "AI can suggest songs based on a person's emotions by analyzing mood indicators and recommending tracks that match their current emotional state.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -278,16 +279,18 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title:
+      "Ask your music friend what kind of music you want to listen to using LLM ",
+    text: "AI can ask your music friend about their preferred genre, mood, or artist, using language models to facilitate personalized music recommendations and conversations.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title:
+      "Let data make perfect decision for you based on who you are and what AI has learnt from you!",
+    text: "Powerful analytics from music data, including listening time, artist preferences, suggestions, and questions asked from LLMs, can optimize personalized recommendations and insights.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
