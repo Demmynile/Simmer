@@ -1,8 +1,9 @@
-import { brainwaveSymbol, check } from "../assets";
-import { collabApps, collabContent, collabText } from "../constants";
+import { check } from "../assets";
+import { collabContent } from "../constants";
 import Button from "./Button";
 import Section from "./Section";
 // import { LeftCurve, RightCurve } from "./design/Collaboration";
+import appImage from "../assets/appImage.png";
 
 const Collaboration = () => {
   return (
@@ -33,6 +34,7 @@ const Collaboration = () => {
           {/* <p className="body-2 mb-8 text-n-4 md:mb-16 lg:mb-32 lg:w-[22rem] lg:mx-auto">
             {collabText}
           </p> */}
+          <img src={appImage} className="mt-[-8rem]" alt="" />
         </div>
       </div>
     </Section>

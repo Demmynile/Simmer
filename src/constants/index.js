@@ -78,8 +78,8 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
+  "Analytics",
+  "Sound classification and bridging",
   "Seamless Integration",
 ];
 
@@ -128,21 +128,21 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "With next rhyme suggestion based on the genre content";
 
 export const collabContent = [
   {
     id: "0",
-    title: "Seamless Integration",
+    title: "Lyrical Assistant",
     text: collabText,
   },
   {
     id: "1",
-    title: "Smart Automation",
+    title: "Legal Ai",
   },
   {
     id: "2",
-    title: "Top-notch Security",
+    title: "Music Bot",
   },
 ];
 
